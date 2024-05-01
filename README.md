@@ -67,8 +67,7 @@ Verificamos que el menú de texto sea intuitivo y fácil de usar para el usuario
 
 Se evalúa el tiempo de respuesta del sistema para realizar operaciones como búsqueda, creación, modificación y borrado de contactos.
 
-  -Pruebas de Regresión de Software
-
+# Pruebas de Regresión de Software
 Las pruebas de regresión aseguran que los cambios recientes en el código no hayan introducido nuevos errores en el sistema.
 
   -Prueba de regresión general:
